@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo data storage component solution
+# Scrimba Frontend Career Path - Module 02
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Scrimba Frontend Career Path - Module 02 - Challenges](https://scrimba.com/learn/frontend/bonus-challenge-cvwy6ET6). Frontend 
 
 ## Table of contents
 
@@ -14,9 +14,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,7 +22,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+- Create a website that contains: lists, columns, images, css styles and box-shadow
 
 ### Screenshot
 
@@ -97,14 +95,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [Portfolio](https://www.gelatodigital.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Rod-Barbosa)
+- Twitter - [Github](https://github.com/Rod-Barbosa)
